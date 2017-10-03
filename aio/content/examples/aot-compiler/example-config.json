@@ -1,0 +1,4 @@
+{
+  "build": "build:aot",
+  "projectType": "systemjs"
+}
